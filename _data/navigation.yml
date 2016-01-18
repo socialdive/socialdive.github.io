@@ -7,15 +7,15 @@
 
 - title: Posts
   url: /posts/
-  excerpt: "Examples of long form posts."
-  image: 400x250.gif
-
-- title: Media
-  url: /media/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
+  excerpt: "A collection of all of the social challenges and our reflections on them."
   image: 400x250.gif
 
 - title: About
   url: /about/
-  excerpt: "All about Skinny Bones for Jekyll."
+  excerpt: "All about us and what we are trying to accomplish"
+  image: 400x250.gif
+
+- title: Join!
+  url: /join/
+  excerpt: "Join us! Go out, challenge yourself, and send us your photo and reflections!"
   image: 400x250.gif

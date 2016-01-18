@@ -1,20 +1,30 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
+edward_zhu:
+  name: Edward Zhu
+  web: http://edwardzhu.me
+  email: edward.r.zhu@gmail.com
+  bio: "I work out to eat more. #justbehappy"
   avatar: bio-photo.jpg
-  twitter: extravagantman
-  google:
-    plus: +BillyRick
+  twitter: edwardrzhu
 
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
+alex_campbell:
+  name: Alex Campbell
+  email: 
+  bio: 
   avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
-  google:
-    plus: +CorneliusFiddlebone
+  twitter: 
+
+josh_fermin:
+  name: Josh Fermin
+  email: 
+  bio: 
+  avatar: bio-photo.jpg
+  twitter:
+
+jack_alvarez:
+  name: Jack Alvarez
+  email: 
+  bio: 
+  avatar: bio-photo.jpg
+  twitter: 
