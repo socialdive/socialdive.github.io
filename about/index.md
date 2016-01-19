@@ -3,7 +3,7 @@ layout: article
 title: "About"
 date: 2014-06-02T09:44:20-04:00
 modified: 2014-08-27T14:56:44-04:00
-excerpt: "This is the Skinny Bones about page."
+excerpt: "About us and what we are doing!"
 image:
   feature:
   teaser:
@@ -12,6 +12,12 @@ share: false
 ads: false
 ---
 
-This is a work in progress.
+What we're here to do is expand our comfort zones. **Simple as that.** 
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+###WHY?
+
+We are all weird and talk too much in our minds, **ALL OF US**.
+
+###HOW?
+
+Get outside. Talk. Listen. Break the subconious mindset that people care about every little thing about you. **BECAUSE THEY DONT.**
