@@ -10,6 +10,11 @@
   excerpt: "A collection of all of the social challenges and our reflections on them."
   image: 400x250.gif
 
+- title: Challenges
+  url: /challenges/
+  excerpt: "List of Challenges"
+  image: 400x250.gif
+
 - title: About
   url: /about/
   excerpt: "All about us and what we are trying to accomplish"
