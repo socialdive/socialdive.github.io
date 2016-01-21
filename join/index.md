@@ -11,3 +11,7 @@ image:
 ---
 
 ### Form to join coming soon! 
+
+email us:
+
+CampbellAlex11@gmail.com
