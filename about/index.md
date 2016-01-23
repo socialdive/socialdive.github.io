@@ -24,7 +24,7 @@ Think back to a social interaction you’ve had in the past few months.  Were th
 
 If you want to improve your basketball skills, you practice everyday.  You challenge yourself to go above and beyond what you thought was previously impossible.  This is no different for improving your being awesome skills.  We are a growing community of people that want to become the best versions of ourselves that we can.
 
-Everyday you'll receive a social challenge that *will* make you uncomfortable. You might have to take a selfie with a stranger, or ask a stranger to pose as your significant other.  This achieves three things:
+Everyday you'll receive a social challenge that *will* make you feel uncomfortable. You might have to take a selfie with a stranger, or ask a stranger to pose as your significant other.  This achieves three things:
 
 1. It expands your comfort zone.  If you can ask a stranger to pose as your significant other, you can probably do other, less weird things.
 2. It creates stories for other people.  The subject of your social dive will go home and tell their friends a hilarious story about how someone asked them to "rate their dancing".
